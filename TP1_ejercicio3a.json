@@ -1,0 +1,23 @@
+{
+	"personas": [
+			{
+				"nombre" : "Pedro Sanchez",
+				"ciudad" : "La Plata",
+				"edad" : 23,
+				"equipo" : "Gimnasia"
+				
+			},
+			{
+				"nombre" : "Juan Tevez",
+				"ciudad" : "La Plata",
+				"edad" : 23,
+				"equipo" : "Estudiantes"
+			},
+			{
+				"nombre" : "Mario Scala",
+				"ciudad" : "La Plata",
+				"edad" : 23,
+				"equipo" : "Independiente"
+			}
+		]
+}
